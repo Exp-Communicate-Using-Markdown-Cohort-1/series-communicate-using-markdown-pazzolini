@@ -1,9 +1,1 @@
-# Test
-
-## Let
-
-### Us
-
-#### See
-
-##### How This Works
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
